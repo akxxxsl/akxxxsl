@@ -1,20 +1,17 @@
 # Axel Gilbert! 👋🏼 🇫🇷
 
 ## À propos de moi
-👨🏻‍💻 Je suis un passionné d'informatique français âgé de 20 ans. J'ai un diplôme de Technicien Supérieur en Systèmes et Réseaux, ainsi qu'un BTS Systèmes Numériques option Informatique & Réseaux. J'ai des compétences en administration de systèmes, en virtualisation, en conteneurisation, en développement web full-stack et en déploiement d'applications web en production.
+👨🏻‍💻 Salut ! Je suis Axel, un passionné de technologie et de développement, spécialisé dans le monde du DevOps/DevSecOps. Actuellement en Master Expert en Ingénierie Logicielle, avec une Licence en Administration Systèmes, Réseaux et Bases de Données, je m'intéresse particulièrement à la création de solutions numériques pour les professionnels.
 
 ## Mes compétences
-💻 Voici quelques-unes des compétences que je possède :
 
-Administration de systèmes : Windows Server, GPO, Active Directory, Linux, Debian
-Gestion de bases de données : SQLite, MySQL, PostgreSQL
-Programmation : Python, Shell
-Développement web : HTML, CSS, WordPress, Django, SEO
-Virtualisation et conteneurisation : Proxmox, Docker, Docker-compose
-Serveur web : Nginx, Caddy, Apache
+- 💻 Passionné par le DevOps/DevSecOps et l'automatisation des processus.
+- 🌐 Création de solutions numériques pour les professionnels.
+
+- PROXMOX VE, Docker, Docker Compose, Caddy, NGINX, MySQL, PostgreSQL, SQLite, Django, et d'autres...
 
 ## Me contacter
-📧 Si vous voulez me contacter, vous pouvez m'envoyer un email à l'adresse suivante : tunixspro@gmail.com
+📧 Si vous voulez me contacter, vous pouvez m'envoyer un email à l'adresse suivante : axel.gilbert@proton.me
 
 ## Me suivre
 👨🏻‍💻 Si vous voulez en savoir plus sur moi et mes projets, vous pouvez me suivre sur mon profil GitHub : @akxxxsl
